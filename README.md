@@ -3,6 +3,9 @@
 This is a simple HTTP server project that serves multiple HTML pages using Node.js.
 
 ## 📂 Project Structure
+
+```
+
 PR-1-HTTP-SERVER/
 │-- 404.html # Error page (Not Found)
 │-- about.html # About page
@@ -10,6 +13,8 @@ PR-1-HTTP-SERVER/
 │-- contact.html # Contact page
 │-- index.html # Home page
 │-- index.js # Node.js server file
+
+```
 
 markdown
 Copy code
